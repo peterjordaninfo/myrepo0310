@@ -1,0 +1,166 @@
+SCN,Address,Type of installation,Latitude,Longitude,Operating Mode before Covid 19,Operating Mode for recovery phase,MIN Vehicle Green (seconds),MAX Vehicle Green (seconds)
+PEL003,[PEL003] Farnborough: B3014 Victoria Road / near Westmead,Pelican Crossing,51.29365977,-0.75661774,VA,Pre-time max,7,25
+PEL012,[PEL012] Aldershot: A323 High Street / near Church Hill,Pelican Crossing,51.24365909,-0.75270237,VA,Pre-time max,7,20
+PEL031,[PEL031] Alton: Orchard Lane / near Russett Road,Pelican Crossing,51.15048076,-0.97111594,VA,Pre-time max,7,30
+PEL043,[PEL043] Hook: A30 London Road / near Station Road,Pelican Crossing,51.28459777,-0.95355379,VA,Pre-time max,7,40
+PEL048,[PEL048] Winchester: B3331 St George's Street / B3040 Jewry Street,Pelican Crossing,51.06323514,-1.31620699,SCOOT,VA,10,20
+PEL058,[PEL058] Gosport: A32 Mumby Road / near High Street,Pelican Crossing,50.79468761,-1.11827215,VA,Pre-time max and green time extended to be done ,7,25
+PEL062,[PEL062] Gosport: B3334 Rowner Road / near Rowner Lane,Pelican Crossing,50.81193669,-1.16919768,VA,Pre-time max,10,20
+PEL106,[PEL106] Locks Heath: Warsash Road / near Locks Road,Pelican Crossing,50.85516164,-1.27326043,VA,Pre-time max,7,20
+PEL111,[PEL111] Lyndhurst: A35 High Street / near Church Lane,Pelican Crossing,50.87249181,-1.57505563,VA,Pre-time max,7,25
+PEL151,[PEL151] New Milton: Old Milton Road / near Hobart Road,Pelican Crossing,50.7487515,-1.66142007,VA,Pre-time max,7,30
+PEL152,[PEL152] Horndean: Catherington Lane / near Merchistoun Road,Pelican Crossing,50.91239614,-1.01128302,VA,Pre-time max,7,20
+PEL153,[PEL153] Chandler's Ford: B3043 Hursley Road / near Sutherlands Way,Pelican Crossing,50.98507845,-1.38485355,VA,Pre-time max,7,40
+PEL157,[PEL157] New Milton: Ashley Road / near Litchford Road,Pelican Crossing,50.7567904,-1.64219919,VA,Pre-time max,7,40
+PUF001,[PUF001] Aldershot: A323 High Street / near B3008 Victoria Road,Puffin Crossing,51.24780113,-0.75593142,VA,Pre-time max,7,20
+PUF002,[PUF002] Farnborough: A325 Farnborough Road / near Clockhouse Roundabout ,Puffin Crossing,51.29253298,-0.75348441,VA,Pre-time max,7,25
+PUF004,[PUF004] Liphook: B2070 Portsmouth Road / near B2131 Haslemere Road ,Puffin Crossing,51.07658967,-0.80292388,VA,Pre-time max,7,25
+PUF005,[PUF005] Petersfield: B2070 Dragon Street / near High Street,Puffin Crossing,51.0035328,-0.93460758,VA,Pre-time max,7,20
+PUF011,[PUF011] Aldershot: B3208 Lower Farnham Road / near Herrett Street,Puffin Crossing,51.23941984,-0.74536078,VA,Pre-time max,7,24
+PUF013,[PUF013] Liphook: B2131 London Road / near Childerstone Close ,Puffin Crossing,51.07773962,-0.80264011,VA,Pre-time max,7,25
+PUF014,[PUF014] Farnborough: Kingsmead / near A325 Farnborough Road,Puffin Crossing,51.29228615,-0.75403463,VA,Pre-time max,7,25
+PUF016,[PUF016] Hartley Wintney: A30 High Street / near Oakland Terrace,Puffin Crossing,51.30604408,-0.90008125,VA,Pre-time max,7,22
+PUF019,[PUF019] Farnborough: B3403 Alexandra Road / near Guildford Road West,Puffin Crossing,51.27960758,-0.75014939,VA,Pre-time max,7,25
+PUF021,[PUF021] Hook: A30 London Road / near Reading Road,Puffin Crossing,51.2840635,-0.96060057,VA,Pre-time max,7,25
+PUF027,[PUF027] Alton: Draymans Way / outside Sainsbury's ,Puffin Crossing,51.14710678,-0.97552139,VA,Pre-time max,7,25
+PUF030,[PUF030] Alton: Draymans Way / near High Street,Puffin Crossing,51.14660664,-0.97755828,VA,Pre-time max,7,25
+PUF032,[PUF032] Alton: Normandy Street / near York Mews,Puffin Crossing,51.15190019,-0.97054964,VA,Pre-time max,7,25
+PUF033,[PUF033] Basingstoke: Worting Road / near Alexandra Road ,Puffin Crossing,51.26357767,-1.09887922,VA,Pre-time max,7,20
+PUF035,[PUF035] Fleet: Albert Street / near Upper Street,Puffin Crossing,51.2800772,-0.84168733,VA,Pre-time max,7,25
+PUF038,[PUF038] Alton: Anstey Road / near Park Close Road,Puffin Crossing,51.26383041,-1.09631585,VA,Pre-time max,7,25
+PUF039,[PUF039] Basingstoke: Worting Road / near Roundmead Road ,Puffin Crossing,51.1537606,-0.96757559,VA,Pre-time max,7,22
+PUF040,[PUF040] Odiham: B3349 Alton Road / near High Street ,Puffin Crossing,51.25318562,-0.94461064,VA,Pre-time max,7,25
+PUF046,[PUF046] Winchester: B3331 Friarsgate / near Middle Brook Street/ The Brooks Car Park ,Puffin Crossing,51.0633377,-1.31130918,VA,Pre-time max and green times increased,7,20
+PUF047,[PUF047] Winchester: B3331 St George's Street / near Parchment Street ,Puffin Crossing,51.06290045,-1.3140271,SCOOT,VA,7,25
+PUF049,[PUF049] Winchester: B3330 North Walls / near Upper Brook Street ,Puffin Crossing,51.06538661,-1.3121407,VA,Pre-time max,7,25
+PUF050,[PUF050] Winchester: B3331 Friarsgate / near Lower Brook Street / Friarsgate Car Park ,Puffin Crossing,51.06283902,-1.31015783,SCOOT,VA,7,25
+PUF051,[PUF051] Winchester: B3330 Chesil Street / near Old Station Approach,Puffin Crossing,51.06065714,-1.3069168,VA,Pre-time max and green time extended,7,20
+PUF052,[PUF052] Gosport: Stoke Road / near Holly Street,Puffin Crossing,50.79451193,-1.12996001,VA,Pre-time max,7,22
+PUF053,[PUF053] Gosport: Stoke Road / near Elmhurst Road,Puffin Crossing,50.79343423,-1.13413869,VA,Pre-time max,7,25
+PUF054,[PUF054] Gosport: Stoke Road / near Molesworth Road ,Puffin Crossing,50.79252529,-1.13647239,VA,Pre-time max,7,20
+PUF055,[PUF055] Gosport: B3333 Bury Road / near Lodge Gardens,Puffin Crossing,50.79246815,-1.14702932,VA,Pre-time max,7,20
+PUF059,[PUF059] Gosport: A32 Forton Road / near Bedford Street ,Puffin Crossing,50.8030964,-1.14808463,VA,Pre-time max,7,25
+PUF060,[PUF060] Gosport: A32 Brockhurst Road / near Mortimor Road,Puffin Crossing,50.804998,-1.15222813,VA,Pre-time max,7,25
+PUF061,[PUF061] Gosport: A32 Brockhurst Road / near Kingsley Road ,Puffin Crossing,50.80808697,-1.15296133,VA,Pre-time max,7,22
+PUF067,[PUF067] Gosport: A32 Forton Road / near Albert Street,Puffin Crossing,50.79929011,-1.13349976,VA,Pre-time max,7,25
+PUF070,[PUF070] Gosport: B3333 South Street / near Shaftsbury Road,Puffin Crossing,50.79217366,-1.13441169,VA,Pre-time max,7,25
+PUF071,[PUF071] Gosport: B3333 South Street / near Coats Road,Puffin Crossing,50.79426294,-1.1211023,VA,Pre-time max,7,20
+PUF072,[PUF072] Gosport: Creek Road / near Walpole Road,Puffin Crossing,50.7945327,-1.12648335,VA,Pre-time max,7,20
+PUF073,[PUF073] Gosport: A32 Brockhurst Road / near Eastbrook Close,Puffin Crossing,50.81155371,-1.15482045,VA,Pre-time max,7,25
+PUF077,[PUF077] Waterlooville: B2150 Hulbert Road / near Hurstville Drive ,Puffin Crossing,50.87871936,-1.02217323,VA,call forward added,7,25
+PUF082,[PUF082] Havant: North Street / near The Pallant,Puffin Crossing,50.8521666,-0.98148838,VA,Pre-time max,7,25
+PUF086,[PUF086] Leigh Park: Middle Park Way / near Swaythling Road ,Puffin Crossing,50.87296508,-0.99526611,VA,Pre-time max,7,25
+PUF088,[PUF088] Havant: Bartons Road / near Martin Road,Puffin Crossing,50.86834063,-0.97165598,VA,call forward added,7,25
+PUF090,[PUF090] Cowplain: A3 London Road / near Longwood Avenue ,Puffin Crossing,50.89772576,-1.01604872,VA,call forward added,7,20
+PUF098,[PUF098] Stubbington: B3334 Gosport Road / near Stubbington Green,Puffin Crossing,50.82501732,-1.21285424,VA,Pre-time max,7,25
+PUF101,[PUF101] Portchester: Castle Street / near A27 Castle Street Roundabout ,Puffin Crossing,50.84628875,-1.12315383,VA,Pre-time max,7,25
+PUF104,[PUF104] Stubbington: Stubbington Lane / near Bells Lane ,Puffin Crossing,50.8227469,-1.21463019,VA,Pre-time max,7,25
+PUF108,[PUF108] Romsey: A3090 Winchester Road / near Plaza Mews,Puffin Crossing,50.99026031,-1.48962904,VA,Pre-time max,7,25
+PUF109,[PUF109] Totton: A36 Commercial Road / near Junction Road,Puffin Crossing,50.91888355,-1.48771118,VA,Pre-time max with call forward,7,25
+PUF112,[PUF112] Blackfield: Hampton Lane / near New Road,Puffin Crossing,50.81759855,-1.37199351,VA,Pre-time max ,7,20
+PUF113,[PUF113] Eastleigh: A335 Romsey Road / near Newtown Road ,Puffin Crossing,50.97047575,-1.35393045,SCOOT,VA,7,20
+PUF114,[PUF114] Eastleigh: A335 Leigh Road / near Nutbeem Road ,Puffin Crossing,50.96987761,-1.35815155,VA,Pre-time max,7,25
+PUF115,[PUF115] Eastleigh: A335 Southampton Road / near Grantham Road,Puffin Crossing,50.96429415,-1.3516437,VA,Pre-time max,7,20
+PUF116,[PUF116] Alresford: B3047 West Street  / near Station Road,Puffin Crossing,51.09027488,-1.16244854,VA,Pre-time max,7,25
+PUF120,[PUF120] Eastleigh: B3037 Bishopstoke Road / near Dutton Lane,Puffin Crossing,50.97011048,-1.34629463,VA,Pre-time max,7,20
+PUF122,[PUF122] Lymington: A337 Queens Street / near A337 Stanford Road ,Puffin Crossing,50.7577829,-1.54924893,VA,Pre-time max ,7,20
+PUF126,[PUF126] New Milton: B3058 Station Road / near Spencer Road ,Puffin Crossing,50.75222233,-1.65452564,SCOOT,VA,7,30
+PUF128,[PUF128] New Milton: B3058 Station Road / near Osborne Road ,Puffin Crossing,50.75454516,-1.65575179,SCOOT,VA,7,25
+PUF129,[PUF129] Totton: A36 Salisbury Road / near Water Lane,Puffin Crossing,50.91924644,-1.49029067,VA,Pre-time max,7,20
+PUF130,[PUF130] Romsey: Broadwater Road / near Paimpol Place ,Puffin Crossing,50.98750394,-1.49704774,VA,Pre-time max,7,25
+PUF132,[PUF132] Chandler's Ford: Winchester Road / near Brownhill Road,Puffin Crossing,50.98771444,-1.37473305,VA,Pre-time max,7,25
+PUF133,[PUF133] Chandler's Ford: Winchester Road / near Oakmount Road ,Puffin Crossing,50.98816754,-1.37370115,VA,Pre-time max,7,25
+PUF137,[PUF137] Denmead: B2150 Hambledon Road / near Park Road,Puffin Crossing,50.90429316,-1.06576901,VA,Pre-time max,7,20
+PUF138,[PUF138] West End: B3035 High Street / near Lower New Road / Upper New Road,Puffin Crossing,50.92762744,-1.33561374,VA,Pre-time max,7,20
+PUF142,[PUF142] Dibden Purlieu: Beaulieu Road / near North Road,Puffin Crossing,50.85329347,-1.41469421,VA,Pre-time max,7,25
+PUF143,[PUF143] Andover: A3057 Western Avenue / near South Street,Puffin Crossing,51.20499146,-1.47900319,VA,Pre-time max,7,25
+PUF144,[PUF144] Lyndhurst: A35 High Street / near A35 Gosport Lane,Puffin Crossing,50.87238686,-1.57340089,VA,Pre-time max,7,20
+PUF147,[PUF147] Hythe: Beaulieu Road / near Fairview Parade,Puffin Crossing,50.85907906,-1.40347977,VA,Pre-time max,7,25
+PUF148,[PUF148] Fordingbridge: B3078 Bridge Street / near Ringwood Road ,Puffin Crossing,50.92676745,-1.78779068,VA,Pre-time max,7,25
+PUF150,[PUF150] Lymington: A337 Stanford Hill / near Anchorage Way ,Puffin Crossing,50.75651739,-1.5503527,VA,Pre-time max,7,20
+PUF159,[PUF159] Fair Oak: B3354 Botley Road / near Cotsalls,Puffin Crossing,50.96124005,-1.29572157,VA,Pre-time max,7,25
+PUF162,[PUF162] Basingstoke: New Road / near Jacobs Yard Car Park ,Puffin Crossing,51.2617488,-1.08542696,VA,Pre-time max,7,25
+PUF163,[PUF163] Fleet: A3013 Fleet Road / near Upper Street,Puffin Crossing,51.27947794,-0.84428748,VA,Pre-time max,7,25
+PUF164,[PUF164] Fleet: A3013 Fleet Road / near Branksomewood Road,Puffin Crossing,51.28159501,-0.84149293,VA,Pre-time max and green times increased,7,25
+PUF165,[PUF165] Yateley: B3272 Reading Road / near Tindal Close,Puffin Crossing,51.34236715,-0.82925955,VA,Pre-time max,7,24
+PUF166,[PUF166] Fleet: A3013 Fleet Road / near Birch Avenue,Puffin Crossing,51.27680899,-0.7498052,VA,Pre-time max,7,25
+PUF168,[PUF168] Farnborough: B3403 Alexandra Road / near Queens Road,Puffin Crossing,51.28299377,-0.84017448,VA,Pre-time max,7,24
+PUF169,[PUF169] Basingstoke: New Road / near Chequers Road,Puffin Crossing,51.26396662,-1.08432079,VA,Pre-time max,7,25
+PUF170,[PUF170] Basingstoke: Winchester Road / near Cordale Road,Puffin Crossing,51.25864296,-1.09679459,VA,Pre-time max,7,30
+PUF171,[PUF171] Fleet: B3013 Reading Road South / near Castle Street,Puffin Crossing,51.27403982,-0.83950632,VA,Pre-time max,7,30
+PUF172,[PUF172] Fleet: A3013 Fleet Road / near Victoria Road,Puffin Crossing,51.28067386,-0.84291546,VA,Pre-time max,7,25
+PUF175,[PUF175] Basingstoke: Brighton Way / near Quilter Road,Puffin Crossing,51.24560957,-1.11483126,VA,Pre-time max,7,25
+PUF178,[PUF178] Farnborough: A325 Farnborough Road / near Jubilee Hall Road (triple Crossing),Puffin Crossing,51.29645625,-0.75330511,VA,Pre-time max,7,20
+PUF182,[PUF182] Aldershot: A323 Ash Road / near Herrett Street ,Puffin Crossing,51.24198243,-0.74492132,SCOOT,Pre-time max,7,30
+PUF184,[PUF184] Winchester: B3335 St Cross Road / near Mead Road,Puffin Crossing,51.04878219,-1.32327356,VA,Pre-time max,7,20
+PUF185,[PUF185] Winchester: B3040 Romsey Road / outside Royal Hampshire County Hospital,Puffin Crossing,51.06213213,-1.32917083,VA,Pre-time max,7,20
+PUF187,[PUF187] Winchester: B3049 Stockbridge Road / near Stoney Lane,Puffin Crossing,51.05814669,-1.30666042,VA,Pre-time max with call forward,7,20
+PUF188,[PUF188] Winchester: B3330 Chesil Street / near East Hill,Puffin Crossing,51.0610699,-1.33734295,VA,Pre-time max,7,24
+PUF190,[PUF190] Gosport: B3333 South Street / near Thorngate Way,Puffin Crossing,50.79432849,-1.12395728,VA,Pre-time max,7,30
+PUF191,[PUF191] Purbrook: A3 London Road / near Stakes Road,Puffin Crossing,50.86756452,-1.04454451,VA,Pre-time max,7,28
+PUF192,[PUF192] Leigh Park: Purbrook Way / near Linkenholt Way,Puffin Crossing,50.86471876,-1.00212515,VA,Pre-time max,7,30
+PUF196,[PUF196] Hayling Island: Church Road / near Katrina Gardens,Puffin Crossing,50.79590448,-0.9760227,VA,Pre-time max,7,24
+PUF200,[PUF200] Fareham: Highlands Road / near Hillson Drive,Puffin Crossing,50.85800072,-1.21265804,VA,Pre-time max,7,24
+PUF201,[PUF201] Stubbington: B3334 Gosport Road / outside Baycroft School,Puffin Crossing,50.82123813,-1.20563059,VA,Pre-time max,7,24
+PUF203,[PUF203] Totton: A336 Ringwood Road / near Southern Gardens,Puffin Crossing,50.91750338,-1.50042434,VA,Pre-time max,7,20
+PUF204,[PUF204] Botley: A334 High Street / near B3354 Winchester Street,Puffin Crossing,50.91440753,-1.27076464,VA,Pre-time max,7,20
+PUF205,[PUF205] Lymington: High Street / near Church Lane,Puffin Crossing,50.75775183,-1.544032,VA,Pre-time max,7,30
+PUF207,[PUF207] Andover: A3057 Eastern Avenue / near London Street,Puffin Crossing,51.20644407,-1.47666492,VA,Pre-time max,7,20
+PUF210,[PUF210] Andover: B3402 Weyhill Road / near Upper Drove,Puffin Crossing,51.20994256,-1.51091222,VA,Pre-time max,7,30
+PUF211,[PUF211] Andover: A3057 Eastern Avenue / near A3057 Winchester Road,Puffin Crossing,51.20522904,-1.47763204,VA,Pre-time max,7,30
+PUF213,[PUF213] Old Milton: A337 Christchurch Road / near Church Lane,Puffin Crossing,50.74744133,-1.66472328,VA,Pre-time max,7,26
+PUF214,[PUF214] Winchester: B3420 Andover Road  / near Bereweeke Road,Puffin Crossing,51.07355335,-1.32150726,VA,Pre-time max,7,30
+PUF215,[PUF215] Farnborough: Kingsmead / near Firgrove Road,Puffin Crossing,51.29295508,-0.75532737,VA,Pre-time max,7,30
+PUF219,[PUF219] Liphook: Longmoor Road / near Copperwood Close,Puffin Crossing,51.07824715,-0.80592613,VA,Pre-time max,7,25
+PUF220,[PUF220] Fareham: Quay Street Roundabout / Quay Street ,Puffin Crossing,50.85114167,-1.17631655,SCOOT,Pre-time max,7,20
+PUF221,[PUF221] Winchester: B3420 Andover Road / near Athelstan Road,Puffin Crossing,51.06992048,-1.31842047,VA,Pre-time max,7,24
+PUF223,[PUF223] Fleet: B3013 Reading Road South / near Carthona Drive,Puffin Crossing,51.27527701,-0.84112826,VA,Pre-time max,7,24
+PUF225,[PUF225] Basingstoke: New Road / near Castons Yard Car Park,Puffin Crossing,51.26163589,-1.08697708,VA,Pre-time max,7,25
+PUF229 ,[PUF229] Petersfield: Ramshill / Station Rd ,Puffin Crossing,51.00755363,-0.93206387,VA,Pre-time max,7,25
+PUF231,[PUF231] Andover: B3402 Weyhill Road / near Portway Close,Puffin Crossing,51.20912872,-1.50640555,VA,Pre-time max,7,25
+PUF236,[PUF236] Farnborough: Solartron Road / near Sulzers Roundabout / Dual Crossing ,Puffin Crossing,51.28970289,-0.76049754,VA,Pre-time max with call forwarding,7,25
+PUF237,[PUF237] Andover: Viking Way / near Witan Close,Puffin Crossing,51.2271331,-1.47583731,VA,Pre-time max,7,25
+PUF239,[PUF239] Hayling Island: Elm Grove / near Elm Grove,Puffin Crossing,50.78833087,-0.97697393,VA,Pre-time max,7,25
+SIG054,[SIG054] Winchester: B3335 Southgate Street / B3040 High Street / B3040 Jewry Street,Traffic signal junction,51.06309116,-1.31680564,SCOOT,Pedestrian phase double cycled,variable,variable
+SIG055,[SIG055] Winchester: B3420 Sussex Street / B3420 Andover Road / B3044 Stockbridge Road / B3330 City Road,Traffic signal junction,51.06682896,-1.31827901,Fixed time UTC,Pedestrian phase double cycled,variable,variable
+SIG149,[SIG149] Hedge End: B3036 Upper Northam Road / B3033 Lower Northam Road / B3033 St John's Road / Wildern Lane,Traffic signal junction,50.91354098,-1.30338193,MOVA,Pedestrian wait time lowered due to reduce in cycle time,variable,variable
+TOU001,[TOU001] Basingstoke: Hackwood Road / near Southern Road,Toucan Crossing,51.26068988,-1.08432298,VA,Pre-time max,7,24
+TOU003,[TOU003] Farnborough: B3014 Cove Road / near Elmsleigh Road,Toucan Crossing,51.29203503,-0.76812039,VA,Pre-time max,7,20
+TOU004,[TOU004] Petersfield: College St,Toucan Crossing,51.0044105,-0.93391761,VA,Pre-time max,6,20
+TOU012,[TOU012] Alton: Butts Road / near The Butts ,Toucan Crossing,51.14323963,-0.98258603,VA,Pre-time max,7,24
+TOU018,[TOU018] North Warnborough: B3349 Dunley's Hill / near Whitewater Road,Toucan Crossing,51.25800049,-0.95195522,VA,Pre-time max,7,24
+TOU026,[TOU026] Emsworth: A259 Havant Road / Bridgefoot Path ,Toucan Crossing,50.84755769,-0.93930015,VA,Pre-time max,7,25
+TOU031,[TOU031] Totton: A326 Marchwood Bypass / near A35 Totton Bypass,Toucan Crossing,50.91207099,-1.49189989,VA,call forward added,7,25
+TOU032,[TOU032] Totton: A35 Totton Bypass / near Rushington Avenue ,Toucan Crossing,50.913334,-1.49075526,VA,call forward added,7,30
+TOU035,[TOU035] Chandler's Ford: B3043 Bournemouth Road / near B3043 Hursley Road,Toucan Crossing,50.98230453,-1.38354258,VA,Pre-time max,7,24
+TOU036,[TOU036] Otterbourne: Main Road / near Kiln Lane,Toucan Crossing,51.003203,-1.34917043,VA,Pre-time max,7,20
+TOU049,[TOU049] Andover: Salisbury Road / near Floral Way,Toucan Crossing,51.20154913,-1.49962587,VA,Pre-time max,7,24
+TOU056,[TOU056] Bursledon: B3397 Hamble Lane / near A3025 Portsmouth Road,Toucan Crossing,50.88886647,-1.32354206,VA,Pre-time max,7,20
+TOU058,[TOU058] Farnborough: A325 Farnborough Road / near Union Street,Toucan Crossing,51.29553431,-0.75328416,VA,Pre-time max,7,35
+TOU066,[TOU066] Hedge End: B3342 Tollbar Way / near B3035 Botley Road,Toucan Crossing,50.92330027,-1.31289687,VA,call forward added,7,22
+TOU070,[TOU070] Farnborough: Union Street / near A325 Farnborough Road,Toucan Crossing,51.29586329,-0.75462346,VA,Pre-time max,7,24
+TOU071,[TOU071] Andover: A3057 Northern Avenue / near Folly Roundabout ,Toucan Crossing,51.21339265,-1.48383908,VA,call forward added,7,20
+TOU072,[TOU072] Waterlooville: Milton Road / near Hart Plain Avenue,Toucan Crossing,50.89300355,-1.03229627,VA,Pre-time max,7,25
+TOU074,[TOU074] Ringwood: B3347 Mansfield Road / Southampton Road,Toucan Crossing,50.846988,-1.79033151,VA,Pre-time max,7,25
+TOU075,[TOU075] Gosport: A32 Fareham Road / near Fort Brockhurst ,Toucan Crossing,50.81275146,-1.15629772,VA,call forward added,7,26
+TOU076,[TOU076] New Milton: Gore Road  / near Davis Field,Toucan Crossing,50.75195353,-1.66319161,VA,Pre-time max,7,25
+TOU080,[TOU080] Fareham: Quay Street Roundabout / A27 Eastern Way ,Toucan Crossing,50.85042931,-1.17604498,SCOOT,Pre-time max,7,30
+TOU082,[TOU082] Andover: A3057 East Street / near Vigo Road Roundabout,Toucan Crossing,51.20901951,-1.47708808,VA,Pre-time max,7,25
+TOU084,[TOU084] Ringwood: B3347 Mansfield Road / The Quomp,Toucan Crossing,50.84562552,-1.78780935,VA,Pre-time max,7,24
+TOU090,[TOU090] Leigh Park: Dunsbury Way / near Stockheath Road,Toucan Crossing,50.86641717,-0.98629395,VA,Pre-time max,7,20
+TOU092,[TOU092] Havant: B2149 Park Road South / near West Street ,Toucan Crossing,50.85162408,-0.98486699,SCOOT,VA,7,25
+TOU094,[TOU094] Havant: Elm Lane / near Market Parade,Toucan Crossing,50.85268089,-0.98271313,VA,Pre-time max,7,30
+TOU095,[TOU095] Whiteley: Yew Tree Drive / near Gull Coppice,Toucan Crossing,50.88075513,-1.25558257,VA,Pre-time max,7,25
+TOU096,[TOU096] Eastleigh: Passfield Avenue / nr O'Connell Road,Toucan Crossing,50.96673991,-1.36967577,VA,Pre-time max,7,25
+TOU098,[TOU098] Eastleigh: A335 Southampton Road / near Eastleigh Railway Station,Toucan Crossing,50.96916865,-1.35059748,VA,Pre-time max and green time extended,7,25
+TOU100,[TOU100] Lee-on-the-Solent: Marine Parade East / near Beach Road,Toucan Crossing,50.79986855,-1.20156997,VA,Pre-time max,7,25
+TOU104,[TOU104] Andover: A3057 Western Avenue / near Folly Roundabout,Toucan Crossing,51.20604935,-1.48254701,VA,call forward added,7,20
+TOU105,[TOU105] Andover: Charlton Road / near Heather Drive,Toucan Crossing,51.21261365,-1.48663958,VA,Pre-time max,7,25
+TOU110,[TOU110] Basingstoke: Basing View / near John Lewis Superstore ,Toucan Crossing,51.26771243,-1.08324429,SCOOT,Pre-time max,7,25
+TOU114,[TOU114] Aldershot: A323 Wellington Avenue / near Gun Hill (NAAFI Roundabout),Toucan Crossing,51.25012918,-0.76194536,VA,Pre-time max,7,30
+TOU115 ,[TOU115] Aldershot: A323 Wellington Avenue / near Court Road,Toucan Crossing,51.25045369,-0.76397564,VA,Pre-time max,7,30
+TOU117,[TOU117] Waterlooville: Stakes Hill Road  / near Durham Gardens,Toucan Crossing,50.86968843,-1.02441473,VA,Pre-time max,7,25
+TOU118,[TOU118] Basingstoke: Chapel Hill / near Alencon Link ,Toucan Crossing,51.2958211,-0.75454572,VA,Pre-time max,7,25
+TOU119,[TOU119] Havant: New Road / near Barncroft Way / Dual Crossing ,Toucan Crossing,50.85646242,-0.98736195,VA,call forward added,7,25
+TOU124,[TOU124] Stubbington: B3334 Gosport Road / near Burnt House Lane ,Toucan Crossing,50.82656746,-1.21335348,VA,Pre-time max,7,25
+TOU197,[TOU197] Cowplain: A3 London Road / near Hart Plain Avenue ,Toucan Crossing,50.89164048,-1.02089304,VA,Pre-time max,7,25
