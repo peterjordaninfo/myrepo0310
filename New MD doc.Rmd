@@ -16,7 +16,7 @@ library(tidyverse)
 ```
 
 ```{r}
-timing_changes <- FOI_Request_Timing_changes_with_min_max_data
+timing_changes <- read_csv("FOI_Request_Timing_changes_with_min_max_data.csv")
 
 head(timing_changes)
 ```
