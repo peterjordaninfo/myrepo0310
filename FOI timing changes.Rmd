@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-# Import FOI Request Timing changes with min max data (converted to csv)
+## Import FOI Request Timing changes with min max data (converted to csv)
 
 ```{r}
 timing_changes <- read_csv("FOI_Request_Timing_changes_with_min_max_data.csv")
